@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" align="center" style="width: 100%" />
 </div>  
 
 <h1 align="center">Hi 👋, I'm Arınç</h1>
