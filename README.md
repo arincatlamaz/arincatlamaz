@@ -5,13 +5,13 @@
 <h1 align="center">Hi 👋, I'm Arınç</h1>
 <h3 align="center">A passionate Android developer</h3>
 
-- 🔭 I’m currently working **at Takipsan**
+<!-- - 🔭 I’m currently working **at Takipsan** -->
 
 - 💬 Ask me about **Android, Kotlin&Java**
 
 - 📫 How to reach me **arincatlamaz@gmail.com**
 
-- 🌱 I’m currently learning **Flutter**
+<!-- - 🌱 I’m currently learning **Flutter** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
